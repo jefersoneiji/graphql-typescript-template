@@ -1,5 +1,5 @@
 {
-  "name": "graphql-koa-server-template",
+  "name": "graphql-typescript-template",
   "version": "0.0.1",
   "description": "template setup for building graphql server using koa and ts",
   "main": "index.js",
