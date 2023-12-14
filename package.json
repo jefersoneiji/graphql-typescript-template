@@ -4,7 +4,7 @@
   "description": "template setup for building graphql server using koa and ts",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node-dev --transpile-only src/index.ts"
   },
   "keywords": [
     "koa",
@@ -12,5 +12,9 @@
     "typescript"
   ],
   "author": "jeferson eiji",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.3.3"
+  }
 }
