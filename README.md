@@ -6,7 +6,7 @@ This template is meant to be used in back-end development.
 
 1. Clone this repository
 ```cmd
-git clone https://github.com/jefersoneiji/graphql-koajs-typescript-template.git
+https://github.com/jefersoneiji/graphql-typescript-template.git
 ```
 2. Install dependencies 
 ```cmd
