@@ -32,11 +32,16 @@ docker build -t graphql-typescript-template .
 ```
 2. Create and run containers from image
 ```cmd
-docker run -dp 127.0.0.1:4000:4000 `
-    graphql-typescript-template"
+docker run -dp 127.0.0.1:4000:4000 graphql-typescript-template
 ```
 3. Open container in editor
 For vscode, you may use the dev containers extension
 ```cmd
 https://code.visualstudio.com/docs/devcontainers/containers
 ```
+
+### Known issues
+
+Q: After the container is opened, git may show some files as modified although nothing was changed. 
+
+A: In this case, just discard all "changes" and you're good to go.
