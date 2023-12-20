@@ -1,3 +1,12 @@
+<div align="center">
+    <img 
+      src="https://github.com/jefersoneiji/graphql-typescript-template/assets/44307139/945504b2-a841-4a8c-9dc8-b45514d7ad78"
+      alt="graphql image"
+      height="150"
+      width="150"
+    />
+</div>
+
 <h1 align="center">
     Graphql Typescript Template 
 </h1>
