@@ -1,8 +1,12 @@
-### Graphql-Typescript template 
+<h1 align="center">
+    Graphql Typescript Template 
+</h1>
 
-This template is meant to be used in back-end development. 
+<p align="center">
+    This template is meant to be used in back-end development. 
+</p>
 
-### Installation
+## Installation
 
 1. Clone this repository
 ```cmd
@@ -17,14 +21,14 @@ yarn install
 yarn start
 ```
 
-### Accessing GraphiQL
+## Accessing GraphiQL
 
 Use this address
 ```
 http://localhost:4000/graphql
 ```
 
-### Docker
+## Docker
 
 1. To build the image type
 ```cmd
@@ -40,7 +44,7 @@ For vscode, you may use the dev containers extension
 https://code.visualstudio.com/docs/devcontainers/containers
 ```
 
-### Known issues
+## Known issues
 
 Q: After the container is opened, git may show some files as modified although nothing was changed. 
 
